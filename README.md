@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo Rodrigues
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Python and some other languages
 - 💞️ I’m also looking to collaborate on projects in those areas.
 
 <!---
