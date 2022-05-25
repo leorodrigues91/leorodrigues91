@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Leo Rodrigues
-- 🌱 I’m currently learning Python and some other languages
-- 💞️ I’m also looking to collaborate on projects in those areas.
+- 🌱 I’m currently learning to be Fullstack Developer
+<br />
+<br />
+
+I’m also have to say: Python is love! 💟😜
 
 <!---
 leorodrigues91/leorodrigues91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
