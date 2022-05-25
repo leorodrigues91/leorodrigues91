@@ -3,7 +3,7 @@
 <br />
 <br />
 
-I’m also have to say: Python is love! 💟😜
+BTW: Python is love! 💟😜
 
 <!---
 leorodrigues91/leorodrigues91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
