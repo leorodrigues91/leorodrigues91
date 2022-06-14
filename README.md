@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo Rodrigues
-- 🌱 I’m currently learning to be Fullstack Developer
+- 🌱 I’m currently learning to Python, Django, SQL and trying some front-end too 🤯
 <br />
 <br />
 
