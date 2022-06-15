@@ -1,12 +1,11 @@
 <div align="center">
   <h2>HELLO, WORLD!</h2>
   <h1>I'M LEO RODRIGUES!</h1>
-  <p></p>
   <h2>🔭 I’m currently learning Python, SQL and trying some HTML, CSS and Javascript too!</h2>
   <p></p>
     <a href="https://github.com/leorodrigues91">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues91&layout=compact&langs_count=7&theme=tokyonight"/></a>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues91&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
 <div>
     <p></p>
