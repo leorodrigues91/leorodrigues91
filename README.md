@@ -1,31 +1,26 @@
+### HELLO, WORLD! EU SOU O LEO RODRIGUES!
+
 <div align="center">
-  <h2>HELLO, WORLD!</h2>
-  <h1>EU SOU O LEO RODRIGUES!</h1>
-  <p></p>
-    <a href="https://github.com/leorodrigues91">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues91&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <a href="https://github.com/leorodrigues91">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leorodrigues91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodrigues91&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 <div>
     <p></p>
 </div>
-
-------
-
-<div align="center">
- <h4 align="center">
-    <img height="300em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-    <p><p>
-  <hr>
-</div>
- 
-
-<div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  
+##
+  
+  <img align="right" alt="mario-pc-room" height="300em" src="https://media.discordapp.net/attachments/745274353859690557/987695973910335488/mario-pc-room.gif">
+  
+<div style="display: inline_block" align="center"><br>
+  <br><br><br>
+  <img align="center" alt="Leo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--  <img align="center" alt="Leo-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
 <!--  <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <!--  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
 <!--  <img align="center" alt="Leo-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> -->
