@@ -12,7 +12,7 @@
   
 ##
   
-  <img align="right" alt="mario-pc-room" height="300em" src="https://media.discordapp.net/attachments/745274353859690557/987695973910335488/mario-pc-room.gif">
+  <img align="right" alt="mario-pc-room" height="250em" src="https://media.discordapp.net/attachments/745274353859690557/987695973910335488/mario-pc-room.gif">
   
 <div style="display: inline_block" align="center"><br>
   <br><br><br>
