@@ -33,5 +33,8 @@
   <a href = "mailto:leo.sirod91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/_leo.rodriguess/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a></div>
 
-<img href="https://raw.githubusercontent.com/leorodrigues91/leorodrigues91/blob/output/snake.svg" alt="Snake animation" />
+##
 
+<div align="center">
+<img href="https://raw.githubusercontent.com/leorodrigues91/leorodrigues91/blob/output/snake.svg" alt="Snake animation" />
+</div>
