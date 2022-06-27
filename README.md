@@ -37,8 +37,3 @@
 <br />
 
 ##
-
-<br />
-<div align="center">
-<img href="https://raw.githubusercontent.com/leorodrigues91/leorodrigues91/blob/output/snake.svg" alt="Snake animation" />
-</div>
