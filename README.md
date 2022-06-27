@@ -40,5 +40,5 @@
 
 <br />
 <div align="center">
-<img href="https://github.com/leorodrigues91/leorodrigues91/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/leorodrigues91/leorodrigues91/blob/output/github-contribution-grid-snake.svg)
 </div>
